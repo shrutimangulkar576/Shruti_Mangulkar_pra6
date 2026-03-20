@@ -1,0 +1,14 @@
+table{
+    background-color:yello:aliceblue(49, 15, 129);
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th:nth-child(even),td:nth-child(even) {
+  background-color: #D6EEEE;
+}
+
+
